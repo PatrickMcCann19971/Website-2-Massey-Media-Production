@@ -1,4 +1,29 @@
 body {
-    background-color: red;
+    background-color: white;
     margin: 0;
+    
+}
+
+.header {
+    background-color: #333333;
+	height: 85px;
+	width: 100%;
+	color: #ab8a66;
+	position:fixed;
+	top:0px;
+}
+
+.nav {
+    font-family: "Trebuchet MS";
+    color: white;
+    text-align: right;
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-left: 
+    font-size: 1.2em;
+}
+
+.massey_logo {
+    padding-left: 20px;
+    padding-top:5px;
 }
